@@ -1,0 +1,26 @@
+body{
+  background-color: #191A19;
+  text-align: center
+}
+
+h2{
+  color: #4ECCA3;
+  font-family: 'Satisfy', cursive;
+  font-weight: bolder;
+  padding-bottom: 10px;
+}
+
+h1{
+  font-family: 'Dancing Script', cursive;
+  font-size: 8rem;
+  font-weight: bolder;
+  color: #4ECCA3;
+}
+
+.dice-img-row{
+  padding: 5% 30%;
+}
+
+img{
+  width: 75%;
+}
